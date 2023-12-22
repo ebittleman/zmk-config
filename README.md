@@ -14,3 +14,4 @@ Images produced using: [keyboard-layout-editor.com](http://www.keyboard-layout-e
 
 ![Chocofi Upper](./docs/images/chocofi-upper.png)
 
+Making a small documentation change
